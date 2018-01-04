@@ -1,0 +1,24 @@
+{
+  "author": "areshayev",
+  "name": "restful_blog_api",
+  "version": "1.0.0",
+  "description": "RESTful Blog API",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areshayev/mod2_alab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/areshayev/mod2_alab/issues"
+  },
+  "homepage": "https://github.com/areshayev/mod2_alab#readme",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "errorhandler": "1.5.0",
+    "express": "4.16.2",
+    "morgan": "1.9.0"
+  }
+}
