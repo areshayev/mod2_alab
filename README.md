@@ -3,7 +3,7 @@
 # environment: 
 npm 5.6.0, node v6.11.2, MS Visual Code, Win7 64bit
 
-#steps to check the project
+# steps to check the project
 1 npm install
 2 npm start
 3 testing:
