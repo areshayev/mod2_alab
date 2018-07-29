@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="target=earth">
+<Folder>
+	<name>Temporary Places</name>
+	<open>1</open>
+	<Document>
+		<name>property search</name>
+		<open>1</open>
+		<Style id="icon-1347-normal">
+			<IconStyle>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1347-poi-university.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="icon-959-F4B400">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-959-F4B400-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-959-F4B400-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="icon-503-DB4436-nodesc">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<name>Sale</name>
+		</Folder>
+		<Folder>
+			<name>Sale Schools</name>
+			<open>1</open>
+			<Placemark>
+				<name>Heyes Lane Primary School</name>
+				<description><![CDATA[<div>
+<table>
+<tr>
+<td>Math</td>
+<td><div style='background-color:#FF5733;color:white;width:50;text-align:center;'/>
+<p>50</p></td>
+</tr>
+<tr>
+<td>Reading</td>
+<td><div style='background-color:#32CD32;color:white;width:75;text-align:center;'/>
+<p>75</p></td>
+</tr>
+<tr>
+<td>Writing</td>
+<td><div style='background-color:#4682B4;color:white;width:37;text-align:center;'/>
+<p>37</p></td>
+</tr>
+
+<tr>
+<td>M + R + W</td>
+<td><div style='background-color:#DB7093;color:white;width:37;text-align:center;'/>
+<p>37</p></td>
+</tr>
+
+</table>
+
+<a href="https://www.compare-school-performance.service.gov.uk/school/106288/">open Ofsted report</a>
+</div>]]></description>
+				<styleUrl>#icon-1347</styleUrl>
+				<gx:balloonVisibility>1</gx:balloonVisibility>
+				<Point>
+					<coordinates>-2.325453,53.40605800000001,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>
